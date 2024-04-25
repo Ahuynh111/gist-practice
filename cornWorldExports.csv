@@ -1,0 +1,577 @@
+Year,Country,Exports
+1960,Brazil,10
+1960,Brazil,0
+1962,Brazil,53
+1963,Brazil,715
+1964,Brazil,27
+1965,Brazil,635
+1966,Brazil,599
+1967,Brazil,665
+1968,Brazil,1135
+1969,Brazil,554
+1970,Brazil,2036
+1971,Brazil,593
+1972,Brazil,137
+1973,Brazil,27
+1974,Brazil,1424
+1975,Brazil,1353
+1976,Brazil,1337
+1977,Brazil,950
+1978,Brazil,0
+1979,Brazil,0
+1980,Brazil,0
+1981,Brazil,700
+1982,Brazil,450
+1983,Brazil,300
+1984,Brazil,56
+1985,Brazil,0
+1986,Brazil,0
+1987,Brazil,0
+1988,Brazil,0
+1989,Brazil,0
+1990,Brazil,0
+1991,Brazil,0
+1992,Brazil,9
+1993,Brazil,4
+1994,Brazil,54
+1995,Brazil,217
+1996,Brazil,357
+1997,Brazil,6
+1998,Brazil,8
+1999,Brazil,7
+2000,Brazil,3744
+2001,Brazil,3857
+2002,Brazil,3181
+2003,Brazil,5818
+2004,Brazil,1431
+2005,Brazil,2826
+2006,Brazil,8071
+2007,Brazil,7883
+2008,Brazil,7178
+2009,Brazil,8623
+2010,Brazil,11582
+2011,Brazil,12674
+2012,Brazil,26044
+2013,Brazil,22041
+2014,Brazil,21909
+2015,Brazil,35382
+2016,Brazil,19794
+2017,Brazil,25116
+2018,Brazil,38773
+2019,Brazil,34137
+2020,Brazil,27492
+2021,Brazil,31921
+2022,Brazil,53285
+2023,Brazil,52000
+1960,United States,6326
+1960,United States,9922
+1962,United States,10195
+1963,United States,11558
+1964,United States,13080
+1965,United States,16988
+1966,United States,12547
+1967,United States,14515
+1968,United States,12980
+1969,United States,15872
+1970,United States,13078
+1971,United States,16719
+1972,United States,28892
+1973,United States,34853
+1974,United States,28384
+1975,United States,39590
+1976,United States,42774
+1977,United States,49479
+1978,United States,54180
+1979,United States,61801
+1980,United States,59420
+1981,United States,49640
+1982,United States,47160
+1983,United States,46932
+1984,United States,46427
+1985,United States,31147
+1986,United States,39330
+1987,United States,43978
+1988,United States,50512
+1989,United States,60034
+1990,United States,44575
+1991,United States,40686
+1992,United States,42572
+1993,United States,33106
+1994,United States,58689
+1995,United States,52753
+1996,United States,46711
+1997,United States,37789
+1998,United States,52030
+1999,United States,49493
+2000,United States,48329
+2001,United States,47271
+2002,United States,40924
+2003,United States,48809
+2004,United States,45347
+2005,United States,56084
+2006,United States,54214
+2007,United States,60663
+2008,United States,47758
+2009,United States,49696
+2010,United States,45162
+2011,United States,38342
+2012,United States,18262
+2013,United States,50691
+2014,United States,46831
+2015,United States,51056
+2016,United States,55618
+2017,United States,63657
+2018,United States,49297
+2019,United States,47035
+2020,United States,68293
+2021,United States,62978
+2022,United States,42833
+2023,United States,54000
+1960,Ukraine,
+1960,Ukraine,
+1962,Ukraine,
+1963,Ukraine,
+1964,Ukraine,
+1965,Ukraine,
+1966,Ukraine,
+1967,Ukraine,
+1968,Ukraine,
+1969,Ukraine,
+1970,Ukraine,
+1971,Ukraine,
+1972,Ukraine,
+1973,Ukraine,
+1974,Ukraine,
+1975,Ukraine,
+1976,Ukraine,
+1977,Ukraine,
+1978,Ukraine,
+1979,Ukraine,
+1980,Ukraine,
+1981,Ukraine,
+1982,Ukraine,
+1983,Ukraine,
+1984,Ukraine,
+1985,Ukraine,
+1986,Ukraine,
+1987,Ukraine,1500
+1988,Ukraine,1300
+1989,Ukraine,600
+1990,Ukraine,350
+1991,Ukraine,150
+1992,Ukraine,100
+1993,Ukraine,2
+1994,Ukraine,0
+1995,Ukraine,58
+1996,Ukraine,22
+1997,Ukraine,593
+1998,Ukraine,365
+1999,Ukraine,55
+2000,Ukraine,397
+2001,Ukraine,349
+2002,Ukraine,811
+2003,Ukraine,1238
+2004,Ukraine,2334
+2005,Ukraine,2464
+2006,Ukraine,1027
+2007,Ukraine,2074
+2008,Ukraine,5497
+2009,Ukraine,5072
+2010,Ukraine,5008
+2011,Ukraine,15208
+2012,Ukraine,12726
+2013,Ukraine,20004
+2014,Ukraine,19661
+2015,Ukraine,16595
+2016,Ukraine,21334
+2017,Ukraine,18036
+2018,Ukraine,30321
+2019,Ukraine,28929
+2020,Ukraine,23864
+2021,Ukraine,26980
+2022,Ukraine,27122
+2023,Ukraine,24500
+1960,Argentina,1897
+1960,Argentina,2253
+1962,Argentina,2723
+1963,Argentina,2452
+1964,Argentina,3442
+1965,Argentina,2923
+1966,Argentina,5082
+1967,Argentina,3186
+1968,Argentina,3968
+1969,Argentina,4346
+1970,Argentina,5333
+1971,Argentina,4801
+1972,Argentina,2832
+1973,Argentina,5105
+1974,Argentina,5831
+1975,Argentina,2595
+1976,Argentina,5385
+1977,Argentina,6377
+1978,Argentina,6200
+1979,Argentina,3460
+1980,Argentina,9016
+1981,Argentina,4922
+1982,Argentina,6483
+1983,Argentina,5885
+1984,Argentina,7072
+1985,Argentina,7430
+1986,Argentina,3953
+1987,Argentina,4208
+1988,Argentina,2676
+1989,Argentina,2873
+1990,Argentina,3588
+1991,Argentina,5888
+1992,Argentina,4790
+1993,Argentina,4230
+1994,Argentina,6046
+1995,Argentina,6952
+1996,Argentina,10210
+1997,Argentina,12756
+1998,Argentina,7848
+1999,Argentina,8859
+2000,Argentina,12229
+2001,Argentina,8581
+2002,Argentina,12349
+2003,Argentina,10439
+2004,Argentina,13752
+2005,Argentina,10719
+2006,Argentina,15734
+2007,Argentina,15676
+2008,Argentina,8466
+2009,Argentina,16973
+2010,Argentina,15198
+2011,Argentina,16501
+2012,Argentina,22789
+2013,Argentina,12846
+2014,Argentina,18448
+2015,Argentina,21679
+2016,Argentina,22951
+2017,Argentina,24198
+2018,Argentina,32879
+2019,Argentina,39917
+2020,Argentina,36544
+2021,Argentina,38853
+2022,Argentina,25740
+2023,Argentina,37000
+1960,Russia,
+1960,Russia,
+1962,Russia,
+1963,Russia,
+1964,Russia,
+1965,Russia,
+1966,Russia,
+1967,Russia,
+1968,Russia,
+1969,Russia,
+1970,Russia,
+1971,Russia,
+1972,Russia,
+1973,Russia,
+1974,Russia,
+1975,Russia,
+1976,Russia,
+1977,Russia,
+1978,Russia,
+1979,Russia,
+1980,Russia,
+1981,Russia,
+1982,Russia,
+1983,Russia,
+1984,Russia,
+1985,Russia,
+1986,Russia,
+1987,Russia,500
+1988,Russia,100
+1989,Russia,150
+1990,Russia,400
+1991,Russia,300
+1992,Russia,100
+1993,Russia,4
+1994,Russia,1
+1995,Russia,0
+1996,Russia,0
+1997,Russia,16
+1998,Russia,13
+1999,Russia,0
+2000,Russia,1
+2001,Russia,0
+2002,Russia,12
+2003,Russia,0
+2004,Russia,44
+2005,Russia,53
+2006,Russia,77
+2007,Russia,49
+2008,Russia,1331
+2009,Russia,427
+2010,Russia,37
+2011,Russia,2027
+2012,Russia,1917
+2013,Russia,4194
+2014,Russia,3213
+2015,Russia,4691
+2016,Russia,5598
+2017,Russia,5532
+2018,Russia,2770
+2019,Russia,4072
+2020,Russia,3989
+2021,Russia,4000
+2022,Russia,5900
+2023,Russia,5300
+1960,European Union,
+1960,European Union,
+1962,European Union,
+1963,European Union,
+1964,European Union,
+1965,European Union,
+1966,European Union,
+1967,European Union,
+1968,European Union,
+1969,European Union,
+1970,European Union,
+1971,European Union,
+1972,European Union,
+1973,European Union,
+1974,European Union,
+1975,European Union,
+1976,European Union,
+1977,European Union,
+1978,European Union,
+1979,European Union,
+1980,European Union,
+1981,European Union,
+1982,European Union,
+1983,European Union,
+1984,European Union,
+1985,European Union,
+1986,European Union,
+1987,European Union,
+1988,European Union,
+1989,European Union,
+1990,European Union,
+1991,European Union,
+1992,European Union,
+1993,European Union,
+1994,European Union,
+1995,European Union,
+1996,European Union,
+1997,European Union,
+1998,European Union,
+1999,European Union,1241
+2000,European Union,456
+2001,European Union,1196
+2002,European Union,767
+2003,European Union,348
+2004,European Union,681
+2005,European Union,458
+2006,European Union,604
+2007,European Union,508
+2008,European Union,1873
+2009,European Union,1569
+2010,European Union,1096
+2011,European Union,3287
+2012,European Union,2194
+2013,European Union,2404
+2014,European Union,4027
+2015,European Union,1953
+2016,European Union,2816
+2017,European Union,2732
+2018,European Union,4273
+2019,European Union,5388
+2020,European Union,3735
+2021,European Union,6025
+2022,European Union,4208
+2023,European Union,4200
+1960,Paraguay,10
+1960,Paraguay,8
+1962,Paraguay,5
+1963,Paraguay,9
+1964,Paraguay,8
+1965,Paraguay,1
+1966,Paraguay,9
+1967,Paraguay,3
+1968,Paraguay,0
+1969,Paraguay,23
+1970,Paraguay,16
+1971,Paraguay,5
+1972,Paraguay,0
+1973,Paraguay,5
+1974,Paraguay,6
+1975,Paraguay,12
+1976,Paraguay,0
+1977,Paraguay,0
+1978,Paraguay,0
+1979,Paraguay,0
+1980,Paraguay,0
+1981,Paraguay,0
+1982,Paraguay,0
+1983,Paraguay,0
+1984,Paraguay,0
+1985,Paraguay,0
+1986,Paraguay,0
+1987,Paraguay,0
+1988,Paraguay,0
+1989,Paraguay,0
+1990,Paraguay,0
+1991,Paraguay,0
+1992,Paraguay,8
+1993,Paraguay,90
+1994,Paraguay,230
+1995,Paraguay,124
+1996,Paraguay,216
+1997,Paraguay,103
+1998,Paraguay,126
+1999,Paraguay,309
+2000,Paraguay,526
+2001,Paraguay,206
+2002,Paraguay,751
+2003,Paraguay,622
+2004,Paraguay,371
+2005,Paraguay,1253
+2006,Paraguay,1909
+2007,Paraguay,1412
+2008,Paraguay,1847
+2009,Paraguay,1359
+2010,Paraguay,1201
+2011,Paraguay,2188
+2012,Paraguay,2858
+2013,Paraguay,2714
+2014,Paraguay,3012
+2015,Paraguay,2662
+2016,Paraguay,1757
+2017,Paraguay,1476
+2018,Paraguay,2559
+2019,Paraguay,2081
+2020,Paraguay,2563
+2021,Paraguay,3187
+2022,Paraguay,3968
+2023,Paraguay,3600
+1960,South Africa,1041
+1960,South Africa,1820
+1962,South Africa,2694
+1963,South Africa,2580
+1964,South Africa,892
+1965,South Africa,426
+1966,South Africa,824
+1967,South Africa,3107
+1968,South Africa,2168
+1969,South Africa,1096
+1970,South Africa,915
+1971,South Africa,2829
+1972,South Africa,3181
+1973,South Africa,371
+1974,South Africa,3324
+1975,South Africa,1366
+1976,South Africa,1366
+1977,South Africa,2757
+1978,South Africa,2424
+1979,South Africa,3219
+1980,South Africa,4127
+1981,South Africa,4761
+1982,South Africa,2376
+1983,South Africa,192
+1984,South Africa,150
+1985,South Africa,1470
+1986,South Africa,2583
+1987,South Africa,589
+1988,South Africa,1965
+1989,South Africa,3067
+1990,South Africa,739
+1991,South Africa,797
+1992,South Africa,23
+1993,South Africa,3261
+1994,South Africa,2259
+1995,South Africa,1756
+1996,South Africa,1581
+1997,South Africa,1041
+1998,South Africa,798
+1999,South Africa,836
+2000,South Africa,1415
+2001,South Africa,1182
+2002,South Africa,1141
+2003,South Africa,797
+2004,South Africa,1517
+2005,South Africa,1406
+2006,South Africa,431
+2007,South Africa,1124
+2008,South Africa,2111
+2009,South Africa,1586
+2010,South Africa,2839
+2011,South Africa,1831
+2012,South Africa,2398
+2013,South Africa,2104
+2014,South Africa,746
+2015,South Africa,759
+2016,South Africa,1816
+2017,South Africa,2361
+2018,South Africa,1183
+2019,South Africa,2456
+2020,South Africa,2751
+2021,South Africa,3830
+2022,South Africa,3619
+2023,South Africa,3000
+1960,Total,12644
+1960,Total,18260
+1962,Total,19791
+1963,Total,22344
+1964,Total,23305
+1965,Total,27331
+1966,Total,25989
+1967,Total,28552
+1968,Total,28119
+1969,Total,29191
+1970,Total,30104
+1971,Total,34481
+1972,Total,38907
+1973,Total,45884
+1974,Total,44802
+1975,Total,52542
+1976,Total,55456
+1977,Total,63643
+1978,Total,67120
+1979,Total,73201
+1980,Total,77820
+1981,Total,66930
+1982,Total,63225
+1983,Total,61075
+1984,Total,66145
+1985,Total,53805
+1986,Total,56878
+1987,Total,58797
+1988,Total,65993
+1989,Total,74537
+1990,Total,58775
+1991,Total,63037
+1992,Total,62565
+1993,Total,57444
+1994,Total,71945
+1995,Total,64831
+1996,Total,66600
+1997,Total,63073
+1998,Total,68715
+1999,Total,72049
+2000,Total,75906
+2001,Total,72739
+2002,Total,76782
+2003,Total,79037
+2004,Total,75974
+2005,Total,82547
+2006,Total,91330
+2007,Total,98160
+2008,Total,83609
+2009,Total,92747
+2010,Total,91714
+2011,Total,103714
+2012,Total,100697
+2013,Total,130884
+2014,Total,128806
+2015,Total,145752
+2016,Total,143579
+2017,Total,154070
+2018,Total,173587
+2019,Total,175878
+2020,Total,184082
+2021,Total,193478
+2022,Total,180670
+2023,Total,197499
